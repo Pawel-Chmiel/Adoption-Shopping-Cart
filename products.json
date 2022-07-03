@@ -1,0 +1,132 @@
+{
+    "items": [
+      {
+        "sys": {
+          "id": "1"
+        },
+        "fields": {
+          "title": "rambo",
+          "price": 0.37,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-1.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "2"
+        },
+        "fields": {
+          "title": "hultaj",
+          "price": 0.98,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-2.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "3"
+        },
+        "fields": {
+          "title": "boczek",
+          "price": 0.16,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-3.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "4"
+        },
+        "fields": {
+          "title": "misia",
+          "price": 0.12,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-4.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "5"
+        },
+        "fields": {
+          "title": "szef",
+          "price": 0.53,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-5.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "6"
+        },
+        "fields": {
+          "title": "lola",
+          "price": 0.42,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-6.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "7"
+        },
+        "fields": {
+          "title": "znajdek",
+          "price": 0.22,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-7.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "8"
+        },
+        "fields": {
+          "title": "paco",
+          "price": 0.17,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./img/dog-8.jpg"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }

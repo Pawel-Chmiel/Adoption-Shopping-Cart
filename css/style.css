@@ -29,6 +29,7 @@ body {
   top: 0;
   height: 80px;
   width: 100%;
+  margin-bottom: 4rem;
   display: flex;
   align-items: center;
   background: rgb(231, 226, 221);
@@ -77,6 +78,7 @@ body {
 
 /* --------------- End of Navbar ---------------- */
 /* --------------- Dogs as a "Products" ---------------- */
+
 
 .section-title h2 {
   text-align: center;
@@ -296,12 +298,16 @@ body {
   }
 
 @media screen and (max-width: 767px) {
+    .navbar{
+      margin-bottom: 1rem;
+    }
+
     .nav-text{
       font-size: 1.4rem;
     }
   
     .section-title h2{
-      margin: 2rem auto; 
+      margin: 3rem auto; 
     }
 }  
 

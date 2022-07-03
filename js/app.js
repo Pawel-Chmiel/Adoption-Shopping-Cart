@@ -63,12 +63,13 @@ class UI {
             let id = button.dataset.id;
             let inCart = cart.find(item => item.id === id);
             if (inCart) {             
+                // button.innerHTML = `<span><i class="fa fa-paw"></i> zaadoptowany</span>`;
                 button.disabled = true;
-                button.innerHTML = `<span><i class="fa fa-paw"></i> zaadoptowany</span>`;
                 
             }
             button.addEventListener('click', (e) => {
                 e.target.innerHTML = `<span><i class="fa fa-paw"></i> zaadoptowany</span>`;
+                e.target.disabled = true;                    
                 // get product from products in local storage
                 let cartItem = { ...Storage.getProduct(id), amount: 1 };
                 // add products to the cart

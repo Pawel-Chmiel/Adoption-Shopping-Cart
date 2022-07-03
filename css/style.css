@@ -78,7 +78,9 @@ body {
 
 /* --------------- End of Navbar ---------------- */
 /* --------------- Dogs as a "Products" ---------------- */
-
+.products{
+  margin-bottom: 3rem;
+}
 
 .section-title h2 {
   text-align: center;
@@ -261,6 +263,8 @@ body {
 
 .item-amount {
   text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
 }
 
 .remove-item {
@@ -271,6 +275,7 @@ body {
 .fa-chevron-up,
 .fa-chevron-down {
   color: var(--primaryColor);
+  font-size: 2rem;
   cursor: pointer;
 }
 

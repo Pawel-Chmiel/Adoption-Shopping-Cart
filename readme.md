@@ -1,4 +1,4 @@
-## Demo [here](https://pawel-chmiel.github.io/adoption-shopping-cart/)
+## Demo [here](https://pawel-chmiel.github.io/Adoption-Shopping-Cart/)
 
 # Tech stack:
 - HTML5,
